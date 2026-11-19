@@ -39,3 +39,7 @@ pnpm-debug.log*
 
 # Local files
 *.local
+
+# Windows development scripts
+Start-Bluff.bat
+Monitor-Bluff.ps1
