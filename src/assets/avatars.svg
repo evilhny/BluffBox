@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+<!-- 1: FEDORA DETECTIVE -->
+<symbol id="detective" viewBox="0 0 100 100">
+ <circle cx="50" cy="50" r="47" fill="#172331"/>
+ <path fill="#9e3f52" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M15 96c4-25 17-35 35-35s31 10 35 35"/>
+ <ellipse fill="#d8a77f" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" cx="50" cy="48" rx="22" ry="25"/>
+ <path fill="#101923" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M23 31h54L67 17H34z"/><path fill="#d0a85c" d="M31 25h38v7H31z"/>
+ <path fill="#101923" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M28 42h18l4 7 4-7h18v12H55l-5-4-5 4H28z"/>
+ <path fill="#efe8dc" d="M42 65q8 6 16 0-3 9-8 9t-8-9"/>
+ <path fill="#d0a85c" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M31 96l8-28 11 12 11-12 8 28z"/>
+</symbol>
+
+<!-- 2: SPIKY TRICKSTER -->
+<symbol id="trickster" viewBox="0 0 100 100">
+ <circle cx="50" cy="50" r="47" fill="#251721"/>
+ <path fill="#101923" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M14 96c5-24 18-34 36-34s31 10 36 34"/>
+ <ellipse fill="#d8a77f" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" cx="50" cy="49" rx="22" ry="25"/>
+ <path fill="#c26070" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M23 37l5-26 11 8 8-15 8 15 17-11 4 29-14-11-12 8-12-8z"/>
+ <path fill="#101923" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M33 44l11-5 5 8-8 8zM67 44l-11-5-5 8 8 8z"/>
+ <path fill="#efe8dc" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M38 63q12 13 24 0-3 15-12 15T38 63"/>
+ <path fill="#9e3f52" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M26 96l10-29 14 14 14-14 10 29z"/>
+</symbol>
+
+<!-- 3: X-EYED PHANTOM -->
+<symbol id="phantom" viewBox="0 0 100 100">
+ <circle cx="50" cy="50" r="47" fill="#10212a"/>
+ <path fill="#9e3f52" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M12 96c5-31 18-45 38-45s33 14 38 45"/>
+ <path fill="#101923" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M21 53C21 20 34 7 50 7s29 13 29 46L67 79H33z"/>
+ <ellipse cx="50" cy="49" rx="20" ry="25" fill="#071017"/>
+ <path stroke="#63c7d8" stroke-width="6" stroke-linecap="round" d="M35 40l11 11m0-11L35 51m19-11 11 11m0-11L54 51"/>
+ <path fill="#63c7d8" d="M40 65q10 7 20 0-4 9-10 9t-10-9"/>
+</symbol>
+
+<!-- 4: GOLDEN CYCLOPS -->
+<symbol id="charmer" viewBox="0 0 100 100">
+ <circle cx="50" cy="50" r="47" fill="#211c18"/>
+ <path fill="#d0a85c" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M15 96c5-25 18-35 35-35s30 10 35 35"/>
+ <path fill="#a96f55" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M29 48c0-18 8-30 21-30s21 12 21 30-8 29-21 29-21-11-21-29"/>
+ <path fill="#101923" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M26 29C32 8 62 3 75 25L61 21 49 30 36 24z"/>
+ <ellipse fill="#d0a85c" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" cx="50" cy="48" rx="15" ry="12"/><ellipse fill="#101923" cx="50" cy="48" rx="6" ry="8"/>
+ <path fill="#efe8dc" d="M41 65q9 6 18 0-3 9-9 9t-9-9"/>
+</symbol>
+
+<!-- 5: JESTER -->
+<symbol id="jester" viewBox="0 0 100 100">
+ <circle cx="50" cy="50" r="47" fill="#241823"/>
+ <path fill="#9e3f52" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M14 96c5-24 18-34 36-34s31 10 36 34"/>
+ <ellipse fill="#efe8dc" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" cx="50" cy="51" rx="22" ry="25"/>
+ <path fill="#9e3f52" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M24 31l6-23 18 14L61 6l15 25-17-8-9 11-11-11z"/>
+ <circle fill="#d0a85c" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" cx="30" cy="9" r="6"/><circle fill="#d0a85c" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" cx="61" cy="7" r="6"/><circle fill="#d0a85c" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" cx="76" cy="31" r="6"/>
+ <path fill="#9e3f52" d="M34 43l11-6 4 10-9 8zm32 0-11-6-4 10 9 8z"/>
+ <path fill="#c26070" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M36 63q14 15 28 0-4 17-14 17T36 63"/>
+</symbol>
+
+<!-- 6: CARD SHARK -->
+<symbol id="gambler" viewBox="0 0 100 100">
+ <circle cx="50" cy="50" r="47" fill="#15241f"/>
+ <path fill="#668975" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M13 96c5-24 18-34 37-34s32 10 37 34"/>
+ <ellipse fill="#d8a77f" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" cx="45" cy="48" rx="21" ry="25"/>
+ <path fill="#668975" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M20 29c9-21 38-25 55-5l-11 11H25z"/><path fill="#d0a85c" d="M27 27h40v7H27z"/>
+ <path fill="#101923" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M27 44h16l3 7 3-7h15v11H50l-4-4-4 4H27z"/>
+ <g transform="rotate(10 73 68)"><rect fill="#efe8dc" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" x="59" y="47" width="28" height="42" rx="4"/><path fill="#9e3f52" d="M73 57l8 9-8 9-8-9z"/></g>
+</symbol>
+
+<!-- 7: ORACLE -->
+<symbol id="oracle" viewBox="0 0 100 100">
+ <circle cx="50" cy="50" r="47" fill="#152333"/>
+ <path fill="#587f9d" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M12 96c5-30 18-44 38-44s33 14 38 44"/>
+ <path fill="#587f9d" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M23 48C23 20 34 7 50 7s27 13 27 41L65 73H35z"/>
+ <ellipse fill="#a96f55" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" cx="50" cy="48" rx="19" ry="23"/>
+ <path fill="#101923" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M29 34c4-17 12-24 21-24s17 7 21 24l-12-8-9 7-9-7z"/>
+ <ellipse fill="#63c7d8" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" cx="50" cy="42" rx="12" ry="8"/><ellipse fill="#101923" cx="50" cy="42" rx="4" ry="5"/>
+ <path fill="#d0a85c" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M29 96l9-29 12 14 12-14 9 29z"/>
+</symbol>
+
+<!-- 8: MONOCLE MASTERMIND -->
+<symbol id="mastermind" viewBox="0 0 100 100">
+ <circle cx="50" cy="50" r="47" fill="#211d18"/>
+ <path fill="#9e3f52" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M14 96c5-24 18-34 36-34s31 10 36 34"/>
+ <ellipse fill="#d8a77f" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" cx="50" cy="49" rx="22" ry="25"/>
+ <path fill="#efe8dc" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M23 31C29 8 59 2 76 25L62 21 51 29 39 23z"/>
+ <circle cx="61" cy="47" r="13" fill="none" stroke="#d0a85c" stroke-width="5"/><circle fill="#101923" cx="61" cy="47" r="4"/>
+ <path stroke="#d0a85c" stroke-width="4" d="M70 57l10 19"/>
+ <path fill="#101923" d="M33 45h12v5H33z"/><path fill="#9e3f52" d="M40 65q10 7 20 0-4 9-10 9t-10-9"/>
+</symbol>
+
+<!-- 9: BANDIT -->
+<symbol id="bandit" viewBox="0 0 100 100">
+ <circle cx="50" cy="50" r="47" fill="#251a1e"/>
+ <path fill="#101923" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M12 96c5-26 18-37 38-37s33 11 38 37"/>
+ <ellipse fill="#a96f55" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" cx="50" cy="48" rx="22" ry="25"/>
+ <path fill="#9e3f52" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M21 32c8-22 43-28 58-4L65 25 50 34 35 25z"/>
+ <path fill="#9e3f52" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M24 43q26-14 52 0l-7 22-19 12-19-12z"/>
+ <path fill="#efe8dc" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M32 45l14-3 1 10-14 3zm36 0-14-3-1 10 14 3z"/>
+ <circle fill="#101923" cx="41" cy="48" r="3"/><circle fill="#101923" cx="59" cy="48" r="3"/>
+</symbol>
+
+<!-- 10: TOP-HAT MAGICIAN -->
+<symbol id="magician" viewBox="0 0 100 100">
+ <circle cx="50" cy="50" r="47" fill="#1d1824"/>
+ <path fill="#9e3f52" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M13 96c5-25 18-35 37-35s32 10 37 35"/>
+ <ellipse fill="#efe8dc" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" cx="50" cy="52" rx="21" ry="23"/>
+ <path fill="#101923" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M29 29h42L65 4H35z"/><path fill="#101923" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M19 29h62v10H19z"/><path fill="#d0a85c" d="M30 27h40v8H30z"/>
+ <path fill="#9e3f52" stroke="#08111b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M32 47h15l3 7 3-7h15v11H54l-4-4-4 4H32z"/>
+ <path fill="#d0a85c" d="M50 65l4 9 10 1-8 7 3 10-9-5-9 5 3-10-8-7 10-1z"/>
+</symbol>
+</defs>
+</svg>

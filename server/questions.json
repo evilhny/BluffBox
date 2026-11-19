@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "SPA001",
+    "category": "Space & Astronomy",
+    "difficulty": "easy",
+    "question": "Which planet is known for its prominent ring system?",
+    "answer": "Saturn"
+  },
+  {
+    "id": "SPA002",
+    "category": "Space & Astronomy",
+    "difficulty": "easy",
+    "question": "What is the name of Earth's natural satellite?",
+    "answer": "The Moon"
+  },
+  {
+    "id": "SPA003",
+    "category": "Space & Astronomy",
+    "difficulty": "medium",
+    "question": "Which planet is closest to the Sun?",
+    "answer": "Mercury"
+  },
+  {
+    "id": "SPA004",
+    "category": "Space & Astronomy",
+    "difficulty": "medium",
+    "question": "What is the largest planet in the solar system?",
+    "answer": "Jupiter"
+  },
+  {
+    "id": "SPA005",
+    "category": "Space & Astronomy",
+    "difficulty": "medium",
+    "question": "What galaxy contains our solar system?",
+    "answer": "The Milky Way"
+  },
+  {
+    "id": "SPA006",
+    "category": "Space & Astronomy",
+    "difficulty": "easy",
+    "question": "What star is at the center of our solar system?",
+    "answer": "The Sun"
+  },
+  {
+    "id": "SPA007",
+    "category": "Space & Astronomy",
+    "difficulty": "medium",
+    "question": "What is a space rock that survives the trip through Earth's atmosphere called?",
+    "answer": "Meteorite"
+  },
+  {
+    "id": "SPA008",
+    "category": "Space & Astronomy",
+    "difficulty": "easy",
+    "question": "Which planet is known as the Red Planet?",
+    "answer": "Mars"
+  },
+  {
+    "id": "SPA009",
+    "category": "Space & Astronomy",
+    "difficulty": "medium",
+    "question": "What force causes tides on Earth primarily?",
+    "answer": "The Moon's gravity"
+  },
+  {
+    "id": "SPA010",
+    "category": "Space & Astronomy",
+    "difficulty": "hard",
+    "question": "What is the boundary around a black hole beyond which light cannot escape called?",
+    "answer": "Event horizon"
+  },
+  {
+    "id": "SPA011",
+    "category": "Space & Astronomy",
+    "difficulty": "medium",
+    "question": "Which planet has the Great Red Spot?",
+    "answer": "Jupiter"
+  },
+  {
+    "id": "SPA012",
+    "category": "Space & Astronomy",
+    "difficulty": "easy",
+    "question": "What do we call a rocky body orbiting the Sun that is smaller than a planet?",
+    "answer": "Asteroid"
+  },
+  {
+    "id": "SPA013",
+    "category": "Space & Astronomy",
+    "difficulty": "medium",
+    "question": "What is the apparent path of the Sun across the sky over a year called?",
+    "answer": "The ecliptic"
+  },
+  {
+    "id": "SPA014",
+    "category": "Space & Astronomy",
+    "difficulty": "easy",
+    "question": "How many planets are in the solar system?",
+    "answer": "Eight"
+  },
+  {
+    "id": "SPA015",
+    "category": "Space & Astronomy",
+    "difficulty": "medium",
+    "question": "What is the term for a star that suddenly becomes dramatically brighter?",
+    "answer": "Nova"
+  },
+  {
+    "id": "SPA016",
+    "category": "Space & Astronomy",
+    "difficulty": "hard",
+    "question": "What is the name of the closest star to the Sun?",
+    "answer": "Proxima Centauri"
+  },
+  {
+    "id": "SPA017",
+    "category": "Space & Astronomy",
+    "difficulty": "easy",
+    "question": "What is the second planet from the Sun?",
+    "answer": "Venus"
+  },
+  {
+    "id": "SPA018",
+    "category": "Space & Astronomy",
+    "difficulty": "medium",
+    "question": "Which planet is tilted so dramatically that it rotates almost on its side?",
+    "answer": "Uranus"
+  },
+  {
+    "id": "SPA019",
+    "category": "Space & Astronomy",
+    "difficulty": "medium",
+    "question": "What do astronomers call a cloud of gas and dust in space?",
+    "answer": "Nebula"
+  },
+  {
+    "id": "SPA020",
+    "category": "Space & Astronomy",
+    "difficulty": "easy",
+    "question": "What is the natural phenomenon in which the Moon passes into Earth's shadow?",
+    "answer": "Lunar eclipse"
+  },
+  {
+    "id": "SPA021",
+    "category": "Space & Astronomy",
+    "difficulty": "medium",
+    "question": "What is the hottest type of star by surface temperature generally?",
+    "answer": "Blue star"
+  },
+  {
+    "id": "SPA022",
+    "category": "Space & Astronomy",
+    "difficulty": "hard",
+    "question": "What unit is commonly used to measure the distance light travels in one year?",
+    "answer": "Light-year"
+  },
+  {
+    "id": "SPA023",
+    "category": "Space & Astronomy",
+    "difficulty": "easy",
+    "question": "Which planet is famous for its deep blue appearance and strong winds?",
+    "answer": "Neptune"
+  },
+  {
+    "id": "SPA024",
+    "category": "Space & Astronomy",
+    "difficulty": "medium",
+    "question": "What is the process by which a star produces energy by combining atomic nuclei?",
+    "answer": "Nuclear fusion"
+  },
+  {
+    "id": "SPA025",
+    "category": "Space & Astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of the boundary separating the Sun's visible surface from its atmosphere?",
+    "answer": "Photosphere"
+  },
+  {
+    "id": "SPA026",
+    "category": "Space & Astronomy",
+    "difficulty": "easy",
+    "question": "What do we call a person who studies objects beyond Earth?",
+    "answer": "Astronomer"
+  },
+  {
+    "id": "SPA027",
+    "category": "Space & Astronomy",
+    "difficulty": "hard",
+    "question": "What is the Chandrasekhar limit approximately?",
+    "answer": "1.4 solar masses"
+  },
+  {
+    "id": "SPA028",
+    "category": "Space & Astronomy",
+    "difficulty": "medium",
+    "question": "Which planet has the longest revolution around the Sun among the eight planets?",
+    "answer": "Neptune"
+  },
+  {
+    "id": "SPA029",
+    "category": "Space & Astronomy",
+    "difficulty": "easy",
+    "question": "What is a chunk of ice and dust that develops a tail near the Sun?",
+    "answer": "Comet"
+  },
+  {
+    "id": "SPA030",
+    "category": "Space & Astronomy",
+    "difficulty": "medium",
+    "question": "What is the darkest central region of a sunspot called?",
+    "answer": "Umbra"
+  },
+  {
+    "id": "SPA031",
+    "category": "Space & Astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of the first artificial satellite launched into orbit?",
+    "answer": "Sputnik 1"
+  },
+  {
+    "id": "SPA032",
+    "category": "Space & Astronomy",
+    "difficulty": "easy",
+    "question": "Which planet is smallest in the solar system?",
+    "answer": "Mercury"
+  },
+  {
+    "id": "SPA033",
+    "category": "Space & Astronomy",
+    "difficulty": "hard",
+    "question": "What term describes the apparent shift in a star's position caused by Earth's orbit?",
+    "answer": "Stellar parallax"
+  },
+  {
+    "id": "SPA034",
+    "category": "Space & Astronomy",
+    "difficulty": "medium",
+    "question": "What is the closest major galaxy to the Milky Way?",
+    "answer": "Andromeda Galaxy"
+  },
+  {
+    "id": "SPA035",
+    "category": "Space & Astronomy",
+    "difficulty": "easy",
+    "question": "What is the bright streak produced when a meteoroid burns in Earth's atmosphere?",
+    "answer": "Meteor"
+  },
+  {
+    "id": "SPA036",
+    "category": "Space & Astronomy",
+    "difficulty": "medium",
+    "question": "What causes the phases of the Moon?",
+    "answer": "The changing relative positions of the Earth, Moon, and Sun"
+  },
+  {
+    "id": "SPA037",
+    "category": "Space & Astronomy",
+    "difficulty": "hard",
+    "question": "What type of supernova occurs when a white dwarf reaches a critical mass?",
+    "answer": "Type Ia"
+  },
+  {
+    "id": "NAT001",
+    "category": "Nature & Earth",
+    "difficulty": "easy",
+    "question": "What is the largest ocean on Earth?",
+    "answer": "Pacific Ocean"
+  },
+  {
+    "id": "NAT002",
+    "category": "Nature & Earth",
+    "difficulty": "easy",
+    "question": "What is the tallest mountain above sea level?",
+    "answer": "Mount Everest"
+  },
+  {
+    "id": "NAT003",
+    "category": "Nature & Earth",
+    "difficulty": "medium",
+    "question": "What layer of Earth is made mostly of solid iron and nickel?",
+    "answer": "Inner core"
+  },
+  {
+    "id": "NAT004",
+    "category": "Nature & Earth",
+    "difficulty": "medium",
+    "question": "What process turns liquid water into water vapor?",
+    "answer": "Evaporation"
+  },
+  {
+    "id": "NAT005",
+    "category": "Nature & Earth",
+    "difficulty": "easy",
+    "question": "What is molten rock beneath Earth's surface called?",
+    "answer": "Magma"
+  },
+  {
+    "id": "NAT006",
+    "category": "Nature & Earth",
+    "difficulty": "medium",
+    "question": "What is molten rock that reaches Earth's surface called?",
+    "answer": "Lava"
+  },
+  {
+    "id": "NAT007",
+    "category": "Nature & Earth",
+    "difficulty": "easy",
+    "question": "Which gas do plants absorb during photosynthesis?",
+    "answer": "Carbon dioxide"
+  },
+  {
+    "id": "NAT008",
+    "category": "Nature & Earth",
+    "difficulty": "medium",
+    "question": "What is the world's largest hot desert?",
+    "answer": "Sahara Desert"
+  },
+  {
+    "id": "NAT009",
+    "category": "Nature & Earth",
+    "difficulty": "easy",
+    "question": "What instrument measures atmospheric pressure?",
+    "answer": "Barometer"
+  },
+  {
+    "id": "NAT010",
+    "category": "Nature & Earth",
+    "difficulty": "medium",
+    "question": "What is the process by which plants release water vapor from their leaves?",
+    "answer": "Transpiration"
+  },
+  {
+    "id": "NAT011",
+    "category": "Nature & Earth",
+    "difficulty": "hard",
+    "question": "What is the boundary between Earth's crust and mantle called?",
+    "answer": "Mohorovičić discontinuity"
+  },
+  {
+    "id": "NAT012",
+    "category": "Nature & Earth",
+    "difficulty": "easy",
+    "question": "What scale is traditionally used to compare mineral hardness?",
+    "answer": "Mohs scale"
+  },
+  {
+    "id": "NAT013",
+    "category": "Nature & Earth",
+    "difficulty": "medium",
+    "question": "What is the study of earthquakes called?",
+    "answer": "Seismology"
+  },
+  {
+    "id": "NAT014",
+    "category": "Nature & Earth",
+    "difficulty": "easy",
+    "question": "What is the frozen layer of soil in polar regions called?",
+    "answer": "Permafrost"
+  },
+  {
+    "id": "NAT015",
+    "category": "Nature & Earth",
+    "difficulty": "medium",
+    "question": "What is the circular movement of ocean water driven by wind and Earth's rotation called?",
+    "answer": "Ocean gyre"
+  },
+  {
+    "id": "NAT016",
+    "category": "Nature & Earth",
+    "difficulty": "hard",
+    "question": "What is the deepest known ocean trench?",
+    "answer": "Mariana Trench"
+  },
+  {
+    "id": "NAT017",
+    "category": "Nature & Earth",
+    "difficulty": "easy",
+    "question": "What is the process by which a caterpillar becomes a butterfly called?",
+    "answer": "Metamorphosis"
+  },
+  {
+    "id": "NAT018",
+    "category": "Nature & Earth",
+    "difficulty": "medium",
+    "question": "What is the world's largest coral reef system?",
+    "answer": "Great Barrier Reef"
+  },
+  {
+    "id": "NAT019",
+    "category": "Nature & Earth",
+    "difficulty": "easy",
+    "question": "What type of rock forms from cooled molten material?",
+    "answer": "Igneous rock"
+  },
+  {
+    "id": "NAT020",
+    "category": "Nature & Earth",
+    "difficulty": "medium",
+    "question": "What type of rock forms when existing rock is changed by heat or pressure?",
+    "answer": "Metamorphic rock"
+  },
+  {
+    "id": "NAT021",
+    "category": "Nature & Earth",
+    "difficulty": "medium",
+    "question": "What type of rock forms from compacted sediments?",
+    "answer": "Sedimentary rock"
+  },
+  {
+    "id": "NAT022",
+    "category": "Nature & Earth",
+    "difficulty": "hard",
+    "question": "What is the point on Earth's surface directly above an earthquake's focus called?",
+    "answer": "Epicenter"
+  },
+  {
+    "id": "NAT023",
+    "category": "Nature & Earth",
+    "difficulty": "easy",
+    "question": "What is the natural movement of water between land, air, and oceans called?",
+    "answer": "Water cycle"
+  },
+  {
+    "id": "NAT024",
+    "category": "Nature & Earth",
+    "difficulty": "medium",
+    "question": "What is the name for a long period of unusually low rainfall?",
+    "answer": "Drought"
+  },
+  {
+    "id": "NAT025",
+    "category": "Nature & Earth",
+    "difficulty": "easy",
+    "question": "What instrument records earthquake vibrations?",
+    "answer": "Seismograph"
+  },
+  {
+    "id": "NAT026",
+    "category": "Nature & Earth",
+    "difficulty": "medium",
+    "question": "What is the process of soil being carried away by wind or water called?",
+    "answer": "Erosion"
+  },
+  {
+    "id": "NAT027",
+    "category": "Nature & Earth",
+    "difficulty": "hard",
+    "question": "What is Earth's axial tilt approximately?",
+    "answer": "23.5 degrees"
+  },
+  {
+    "id": "NAT028",
+    "category": "Nature & Earth",
+    "difficulty": "easy",
+    "question": "What is the largest continent by area?",
+    "answer": "Asia"
+  },
+  {
+    "id": "NAT029",
+    "category": "Nature & Earth",
+    "difficulty": "medium",
+    "question": "What is the largest island in the world?",
+    "answer": "Greenland"
+  },
+  {
+    "id": "NAT030",
+    "category": "Nature & Earth",
+    "difficulty": "easy",
+    "question": "What is the line that divides Earth into Northern and Southern Hemispheres?",
+    "answer": "Equator"
+  },
+  {
+    "id": "NAT031",
+    "category": "Nature & Earth",
+    "difficulty": "medium",
+    "question": "What is the imaginary line at 0 degrees longitude called?",
+    "answer": "Prime Meridian"
+  },
+  {
+    "id": "NAT032",
+    "category": "Nature & Earth",
+    "difficulty": "easy",
+    "question": "What is the layer of gases surrounding Earth called?",
+    "answer": "Atmosphere"
+  },
+  {
+    "id": "NAT033",
+    "category": "Nature & Earth",
+    "difficulty": "medium",
+    "question": "What atmospheric layer contains most weather?",
+    "answer": "Troposphere"
+  },
+  {
+    "id": "NAT034",
+    "category": "Nature & Earth",
+    "difficulty": "hard",
+    "question": "What is the ozone-rich region mainly located in which atmospheric layer?",
+    "answer": "Stratosphere"
+  },
+  {
+    "id": "NAT035",
+    "category": "Nature & Earth",
+    "difficulty": "easy",
+    "question": "What is the process by which glaciers slowly move downhill?",
+    "answer": "Glacial flow"
+  },
+  {
+    "id": "NAT036",
+    "category": "Nature & Earth",
+    "difficulty": "medium",
+    "question": "What landform is created where a river deposits sediment at its mouth?",
+    "answer": "Delta"
+  },
+  {
+    "id": "NAT037",
+    "category": "Nature & Earth",
+    "difficulty": "easy",
+    "question": "What is the name for a steep-sided valley carved by a glacier?",
+    "answer": "U-shaped valley"
+  },
+  {
+    "id": "ANI001",
+    "category": "Animals",
+    "difficulty": "easy",
+    "question": "Which animal is known for having black-and-white stripes?",
+    "answer": "Zebra"
+  },
+  {
+    "id": "ANI002",
+    "category": "Animals",
+    "difficulty": "easy",
+    "question": "What is the largest land animal?",
+    "answer": "African elephant"
+  },
+  {
+    "id": "ANI003",
+    "category": "Animals",
+    "difficulty": "medium",
+    "question": "Which big cat is known for its mane?",
+    "answer": "Lion"
+  },
+  {
+    "id": "ANI004",
+    "category": "Animals",
+    "difficulty": "easy",
+    "question": "What is a baby kangaroo called?",
+    "answer": "Joey"
+  },
+  {
+    "id": "ANI005",
+    "category": "Animals",
+    "difficulty": "medium",
+    "question": "Which mammal is known for echolocation and lives in pods?",
+    "answer": "Dolphin"
+  },
+  {
+    "id": "ANI006",
+    "category": "Animals",
+    "difficulty": "easy",
+    "question": "What bird is famous for its colorful tail feathers?",
+    "answer": "Peacock"
+  },
+  {
+    "id": "ANI007",
+    "category": "Animals",
+    "difficulty": "medium",
+    "question": "Which animal is known for building dams?",
+    "answer": "Beaver"
+  },
+  {
+    "id": "ANI008",
+    "category": "Animals",
+    "difficulty": "easy",
+    "question": "What is the fastest land animal?",
+    "answer": "Cheetah"
+  },
+  {
+    "id": "ANI009",
+    "category": "Animals",
+    "difficulty": "medium",
+    "question": "Which bear species is native to the Arctic?",
+    "answer": "Polar bear"
+  },
+  {
+    "id": "ANI010",
+    "category": "Animals",
+    "difficulty": "easy",
+    "question": "What insect transforms from a caterpillar into an adult with wings?",
+    "answer": "Butterfly"
+  },
+  {
+    "id": "ANI011",
+    "category": "Animals",
+    "difficulty": "hard",
+    "question": "Which mammal has the longest gestation period of any living land mammal?",
+    "answer": "Elephant"
+  },
+  {
+    "id": "ANI012",
+    "category": "Animals",
+    "difficulty": "medium",
+    "question": "What is the only great ape native to Asia?",
+    "answer": "Orangutan"
+  },
+  {
+    "id": "ANI013",
+    "category": "Animals",
+    "difficulty": "easy",
+    "question": "Which animal is famous for carrying its baby in a pouch?",
+    "answer": "Kangaroo"
+  },
+  {
+    "id": "ANI014",
+    "category": "Animals",
+    "difficulty": "medium",
+    "question": "Which reptile can detach its tail as a defense mechanism?",
+    "answer": "Lizard"
+  },
+  {
+    "id": "ANI015",
+    "category": "Animals",
+    "difficulty": "easy",
+    "question": "What animal is known for its long trunk?",
+    "answer": "Elephant"
+  },
+  {
+    "id": "ANI016",
+    "category": "Animals",
+    "difficulty": "medium",
+    "question": "Which animal can survive for long periods without drinking by obtaining moisture from food?",
+    "answer": "Kangaroo rat"
+  },
+  {
+    "id": "ANI017",
+    "category": "Animals",
+    "difficulty": "hard",
+    "question": "Which bird is the only one known to fly backward and hover for extended periods?",
+    "answer": "Hummingbird"
+  },
+  {
+    "id": "ANI018",
+    "category": "Animals",
+    "difficulty": "easy",
+    "question": "What is the largest living reptile?",
+    "answer": "Saltwater crocodile"
+  },
+  {
+    "id": "ANI019",
+    "category": "Animals",
+    "difficulty": "medium",
+    "question": "Which animal has a prehensile tail and is native to South America?",
+    "answer": "Spider monkey"
+  },
+  {
+    "id": "ANI020",
+    "category": "Animals",
+    "difficulty": "easy",
+    "question": "Which farm animal provides wool?",
+    "answer": "Sheep"
+  },
+  {
+    "id": "ANI021",
+    "category": "Animals",
+    "difficulty": "medium",
+    "question": "What type of animal is a Komodo dragon?",
+    "answer": "Lizard"
+  },
+  {
+    "id": "ANI022",
+    "category": "Animals",
+    "difficulty": "hard",
+    "question": "Which mammal is known to have the longest lifespan among living land mammals?",
+    "answer": "Tortoise"
+  },
+  {
+    "id": "ANI023",
+    "category": "Animals",
+    "difficulty": "easy",
+    "question": "What animal is commonly associated with honey production?",
+    "answer": "Honeybee"
+  },
+  {
+    "id": "ANI024",
+    "category": "Animals",
+    "difficulty": "medium",
+    "question": "Which African animal is known for its horned snout and thick skin?",
+    "answer": "Rhinoceros"
+  },
+  {
+    "id": "ANI025",
+    "category": "Animals",
+    "difficulty": "easy",
+    "question": "What is a group of lions called?",
+    "answer": "Pride"
+  },
+  {
+    "id": "ANI026",
+    "category": "Animals",
+    "difficulty": "medium",
+    "question": "Which marsupial is famous for its sleepy appearance and eucalyptus diet?",
+    "answer": "Koala"
+  },
+  {
+    "id": "ANI027",
+    "category": "Animals",
+    "difficulty": "easy",
+    "question": "What marine animal has five arms and is not actually a fish?",
+    "answer": "Starfish"
+  },
+  {
+    "id": "ANI028",
+    "category": "Animals",
+    "difficulty": "medium",
+    "question": "Which bird is flightless and native to Antarctica?",
+    "answer": "Penguin"
+  },
+  {
+    "id": "ANI029",
+    "category": "Animals",
+    "difficulty": "hard",
+    "question": "What is the world's largest species of shark?",
+    "answer": "Whale shark"
+  },
+  {
+    "id": "ANI030",
+    "category": "Animals",
+    "difficulty": "easy",
+    "question": "Which animal is known for changing colors to blend into its surroundings?",
+    "answer": "Chameleon"
+  },
+  {
+    "id": "ANI031",
+    "category": "Animals",
+    "difficulty": "medium",
+    "question": "What is the largest species of penguin?",
+    "answer": "Emperor penguin"
+  },
+  {
+    "id": "ANI032",
+    "category": "Animals",
+    "difficulty": "easy",
+    "question": "Which animal is known for spinning webs?",
+    "answer": "Spider"
+  },
+  {
+    "id": "ANI033",
+    "category": "Animals",
+    "difficulty": "medium",
+    "question": "What animal uses echolocation to navigate in caves?",
+    "answer": "Bat"
+  },
+  {
+    "id": "ANI034",
+    "category": "Animals",
+    "difficulty": "hard",
+    "question": "Which mammal has scales and feeds mainly on ants and termites?",
+    "answer": "Pangolin"
+  },
+  {
+    "id": "ANI035",
+    "category": "Animals",
+    "difficulty": "easy",
+    "question": "What animal is famous for its ability to regrow lost limbs?",
+    "answer": "Axolotl"
+  },
+  {
+    "id": "ANI036",
+    "category": "Animals",
+    "difficulty": "medium",
+    "question": "Which animal is the largest living primate?",
+    "answer": "Gorilla"
+  },
+  {
+    "id": "HIS001",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which ancient civilization built the pyramids at Giza?",
+    "answer": "Ancient Egyptians"
+  },
+  {
+    "id": "HIS002",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who was the first emperor of Rome?",
+    "answer": "Augustus"
+  },
+  {
+    "id": "HIS003",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which Roman city was buried by Mount Vesuvius in AD 79?",
+    "answer": "Pompeii"
+  },
+  {
+    "id": "HIS004",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which civilization built the Colosseum?",
+    "answer": "Romans"
+  },
+  {
+    "id": "HIS005",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who was known as the Maid of Orléans?",
+    "answer": "Joan of Arc"
+  },
+  {
+    "id": "HIS006",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which document signed in 1215 limited the English king's powers?",
+    "answer": "Magna Carta"
+  },
+  {
+    "id": "HIS007",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who was the first president of the United States?",
+    "answer": "George Washington"
+  },
+  {
+    "id": "HIS008",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which ancient Greek city-state was famous for its military society?",
+    "answer": "Sparta"
+  },
+  {
+    "id": "HIS009",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which explorer reached the Americas in 1492 while sailing for Spain?",
+    "answer": "Christopher Columbus"
+  },
+  {
+    "id": "HIS010",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "What wall fell in 1989, symbolizing the end of the Cold War era in Europe?",
+    "answer": "Berlin Wall"
+  },
+  {
+    "id": "HIS011",
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Which dynasty built much of the Forbidden City in Beijing?",
+    "answer": "Ming dynasty"
+  },
+  {
+    "id": "HIS012",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who was the Egyptian queen associated with Julius Caesar and Mark Antony?",
+    "answer": "Cleopatra VII"
+  },
+  {
+    "id": "HIS013",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which battle in 1066 changed the course of English history?",
+    "answer": "Battle of Hastings"
+  },
+  {
+    "id": "HIS014",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "What empire was ruled by Genghis Khan?",
+    "answer": "Mongol Empire"
+  },
+  {
+    "id": "HIS015",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Who wrote the 95 Theses in 1517?",
+    "answer": "Martin Luther"
+  },
+  {
+    "id": "HIS016",
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Which treaty formally ended World War I with Germany?",
+    "answer": "Treaty of Versailles"
+  },
+  {
+    "id": "HIS017",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which revolution began in France in 1789?",
+    "answer": "French Revolution"
+  },
+  {
+    "id": "HIS018",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Who was the British prime minister for much of World War II?",
+    "answer": "Winston Churchill"
+  },
+  {
+    "id": "HIS019",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which ship famously sank on its maiden voyage in 1912?",
+    "answer": "Titanic"
+  },
+  {
+    "id": "HIS020",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which civilization developed democracy in ancient Athens?",
+    "answer": "Ancient Greeks"
+  },
+  {
+    "id": "HIS021",
+    "category": "History",
+    "difficulty": "hard",
+    "question": "What was the capital of the Byzantine Empire?",
+    "answer": "Constantinople"
+  },
+  {
+    "id": "HIS022",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who was the leader of the Soviet Union during much of World War II?",
+    "answer": "Joseph Stalin"
+  },
+  {
+    "id": "HIS023",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which ancient civilization used hieroglyphs?",
+    "answer": "Ancient Egyptians"
+  },
+  {
+    "id": "HIS024",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which country was ruled by the Tokugawa shogunate?",
+    "answer": "Japan"
+  },
+  {
+    "id": "HIS025",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "answer": "Amelia Earhart"
+  },
+  {
+    "id": "HIS026",
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Which battle in 1066 saw William the Conqueror defeat Harold Godwinson?",
+    "answer": "Battle of Hastings"
+  },
+  {
+    "id": "HIS027",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "What was the name of the ancient Greek god of the sea?",
+    "answer": "Poseidon"
+  },
+  {
+    "id": "HIS028",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which empire used the road system centered on Cusco?",
+    "answer": "Inca Empire"
+  },
+  {
+    "id": "HIS029",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "What pandemic devastated Europe in the 14th century?",
+    "answer": "Black Death"
+  },
+  {
+    "id": "HIS030",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which ancient civilization created the city of Machu Picchu?",
+    "answer": "Inca"
+  },
+  {
+    "id": "HIS031",
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Which English king had six wives?",
+    "answer": "Henry VIII"
+  },
+  {
+    "id": "HIS032",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "answer": "Michelangelo"
+  },
+  {
+    "id": "HIS033",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which war was fought between the Union and Confederacy?",
+    "answer": "American Civil War"
+  },
+  {
+    "id": "HIS034",
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which ancient city was famous for its hanging gardens?",
+    "answer": "Babylon"
+  },
+  {
+    "id": "HIS035",
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Who was the first human to travel into space?",
+    "answer": "Yuri Gagarin"
+  },
+  {
+    "id": "HIS036",
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Which peace settlement ended the Thirty Years' War in 1648?",
+    "answer": "Peace of Westphalia"
+  },
+  {
+    "id": "TEC001",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What does CPU stand for?",
+    "answer": "Central Processing Unit"
+  },
+  {
+    "id": "TEC002",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What does RAM stand for?",
+    "answer": "Random Access Memory"
+  },
+  {
+    "id": "TEC003",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What does GPU stand for?",
+    "answer": "Graphics Processing Unit"
+  },
+  {
+    "id": "TEC004",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which company created the Android operating system?",
+    "answer": "Google"
+  },
+  {
+    "id": "TEC005",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What language is primarily used to style web pages?",
+    "answer": "CSS"
+  },
+  {
+    "id": "TEC006",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What does HTML stand for?",
+    "answer": "HyperText Markup Language"
+  },
+  {
+    "id": "TEC007",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which protocol is commonly used to transfer web pages securely?",
+    "answer": "HTTPS"
+  },
+  {
+    "id": "TEC008",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What device forwards data packets between networks?",
+    "answer": "Router"
+  },
+  {
+    "id": "TEC009",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What does SSD stand for?",
+    "answer": "Solid-State Drive"
+  },
+  {
+    "id": "TEC010",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What does USB stand for?",
+    "answer": "Universal Serial Bus"
+  },
+  {
+    "id": "TEC011",
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "What does DNS translate domain names into?",
+    "answer": "IP addresses"
+  },
+  {
+    "id": "TEC012",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which programming language is known for using indentation as syntax?",
+    "answer": "Python"
+  },
+  {
+    "id": "TEC013",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What does Wi-Fi generally provide?",
+    "answer": "Wireless networking"
+  },
+  {
+    "id": "TEC014",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What is the main purpose of a firewall?",
+    "answer": "To filter network traffic"
+  },
+  {
+    "id": "TEC015",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What does AI stand for?",
+    "answer": "Artificial intelligence"
+  },
+  {
+    "id": "TEC016",
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "What does HTTP status code 404 indicate?",
+    "answer": "Not Found"
+  },
+  {
+    "id": "TEC017",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which company developed the C programming language at Bell Labs?",
+    "answer": "AT&T Bell Labs"
+  },
+  {
+    "id": "TEC018",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What is the common name for malicious software?",
+    "answer": "Malware"
+  },
+  {
+    "id": "TEC019",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What does VPN stand for?",
+    "answer": "Virtual Private Network"
+  },
+  {
+    "id": "TEC020",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What unit is commonly used to measure computer storage capacity?",
+    "answer": "Byte"
+  },
+  {
+    "id": "TEC021",
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "What does SQL stand for?",
+    "answer": "Structured Query Language"
+  },
+  {
+    "id": "TEC022",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which operating system is developed by the Linux community around the Linux kernel?",
+    "answer": "Linux"
+  },
+  {
+    "id": "TEC023",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What is a QR code designed to encode?",
+    "answer": "Information in a machine-readable pattern"
+  },
+  {
+    "id": "TEC024",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What is cloud computing?",
+    "answer": "Using remote computing resources over a network"
+  },
+  {
+    "id": "TEC025",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which company developed the Windows operating system?",
+    "answer": "Microsoft"
+  },
+  {
+    "id": "TEC026",
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "What does API stand for?",
+    "answer": "Application Programming Interface"
+  },
+  {
+    "id": "TEC027",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What is an IP address used to identify?",
+    "answer": "A device or network interface on a network"
+  },
+  {
+    "id": "TEC028",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What does Bluetooth provide?",
+    "answer": "Short-range wireless communication"
+  },
+  {
+    "id": "TEC029",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What is a database index used for?",
+    "answer": "Faster data retrieval"
+  },
+  {
+    "id": "TEC030",
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "What is a hash function primarily used to produce?",
+    "answer": "A fixed-size digest from input data"
+  },
+  {
+    "id": "TEC031",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What does JPEG primarily store?",
+    "answer": "Compressed images"
+  },
+  {
+    "id": "TEC032",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which data structure follows first-in, first-out order?",
+    "answer": "Queue"
+  },
+  {
+    "id": "TEC033",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which data structure follows last-in, first-out order?",
+    "answer": "Stack"
+  },
+  {
+    "id": "TEC034",
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "What is Git primarily used for?",
+    "answer": "Version control"
+  },
+  {
+    "id": "TEC035",
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What does open-source software mean?",
+    "answer": "Its source code is available under a license allowing specified use and modification"
+  },
+  {
+    "id": "TEC036",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What does PDF stand for?",
+    "answer": "Portable Document Format"
+  },
+  {
+    "id": "GEO001",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Australia?",
+    "answer": "Canberra"
+  },
+  {
+    "id": "GEO002",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Canada?",
+    "answer": "Ottawa"
+  },
+  {
+    "id": "GEO003",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which country has the most time zones when overseas territories are included?",
+    "answer": "France"
+  },
+  {
+    "id": "GEO004",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Japan?",
+    "answer": "Tokyo"
+  },
+  {
+    "id": "GEO005",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which river is commonly listed as the longest in South America?",
+    "answer": "Amazon River"
+  },
+  {
+    "id": "GEO006",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Italy?",
+    "answer": "Rome"
+  },
+  {
+    "id": "GEO007",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which country is shaped roughly like a boot?",
+    "answer": "Italy"
+  },
+  {
+    "id": "GEO008",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Egypt?",
+    "answer": "Cairo"
+  },
+  {
+    "id": "GEO009",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which country has the city of Marrakech?",
+    "answer": "Morocco"
+  },
+  {
+    "id": "GEO010",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of India?",
+    "answer": "New Delhi"
+  },
+  {
+    "id": "GEO011",
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Which country contains the most land in the Amazon rainforest?",
+    "answer": "Brazil"
+  },
+  {
+    "id": "GEO012",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which strait separates Europe from Africa at the western Mediterranean?",
+    "answer": "Strait of Gibraltar"
+  },
+  {
+    "id": "GEO013",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Spain?",
+    "answer": "Madrid"
+  },
+  {
+    "id": "GEO014",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which lake is the largest by surface area?",
+    "answer": "Caspian Sea"
+  },
+  {
+    "id": "GEO015",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Germany?",
+    "answer": "Berlin"
+  },
+  {
+    "id": "GEO016",
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Which country has the world's highest number of islands?",
+    "answer": "Sweden"
+  },
+  {
+    "id": "GEO017",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which African river flows northward into the Mediterranean Sea?",
+    "answer": "Nile"
+  },
+  {
+    "id": "GEO018",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Greece?",
+    "answer": "Athens"
+  },
+  {
+    "id": "GEO019",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which mountain range separates much of Europe from Asia?",
+    "answer": "Ural Mountains"
+  },
+  {
+    "id": "GEO020",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Brazil?",
+    "answer": "Brasília"
+  },
+  {
+    "id": "GEO021",
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Which country surrounds the tiny enclave of San Marino?",
+    "answer": "Italy"
+  },
+  {
+    "id": "GEO022",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "What is the largest country in South America by area?",
+    "answer": "Brazil"
+  },
+  {
+    "id": "GEO023",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of China?",
+    "answer": "Beijing"
+  },
+  {
+    "id": "GEO024",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which desert lies primarily in Mongolia and northern China?",
+    "answer": "Gobi Desert"
+  },
+  {
+    "id": "GEO025",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Portugal?",
+    "answer": "Lisbon"
+  },
+  {
+    "id": "GEO026",
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Which African country has coastlines on both the Atlantic and Indian Oceans?",
+    "answer": "South Africa"
+  },
+  {
+    "id": "GEO027",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which European river flows through Vienna, Budapest, and Belgrade?",
+    "answer": "Danube"
+  },
+  {
+    "id": "GEO028",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Norway?",
+    "answer": "Oslo"
+  },
+  {
+    "id": "GEO029",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which country is home to the ancient city of Petra?",
+    "answer": "Jordan"
+  },
+  {
+    "id": "GEO030",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Thailand?",
+    "answer": "Bangkok"
+  },
+  {
+    "id": "GEO031",
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Which two countries share the world's longest international land border?",
+    "answer": "Canada and the United States"
+  },
+  {
+    "id": "GEO032",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which sea lies between northeastern Africa and the Arabian Peninsula?",
+    "answer": "Red Sea"
+  },
+  {
+    "id": "GEO033",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of South Korea?",
+    "answer": "Seoul"
+  },
+  {
+    "id": "GEO034",
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which country contains Mount Kilimanjaro?",
+    "answer": "Tanzania"
+  },
+  {
+    "id": "GEO035",
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Argentina?",
+    "answer": "Buenos Aires"
+  },
+  {
+    "id": "GEO036",
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Which country has the highest administrative-level capital in elevation among sovereign states?",
+    "answer": "Bolivia"
+  },
+  {
+    "id": "FOD001",
+    "category": "Food & Drink",
+    "difficulty": "easy",
+    "question": "What fruit is the main ingredient in a traditional apple pie?",
+    "answer": "Apples"
+  },
+  {
+    "id": "FOD002",
+    "category": "Food & Drink",
+    "difficulty": "easy",
+    "question": "What grain is used to make pasta traditionally in Italy?",
+    "answer": "Wheat"
+  },
+  {
+    "id": "FOD003",
+    "category": "Food & Drink",
+    "difficulty": "medium",
+    "question": "What cheese is traditionally used in a Greek salad?",
+    "answer": "Feta"
+  },
+  {
+    "id": "FOD004",
+    "category": "Food & Drink",
+    "difficulty": "easy",
+    "question": "What is the main ingredient in guacamole?",
+    "answer": "Avocado"
+  },
+  {
+    "id": "FOD005",
+    "category": "Food & Drink",
+    "difficulty": "medium",
+    "question": "What spice is commonly used in chai for warmth and aroma?",
+    "answer": "Cardamom"
+  },
+  {
+    "id": "FOD006",
+    "category": "Food & Drink",
+    "difficulty": "easy",
+    "question": "What fruit is used to make raisins?",
+    "answer": "Grapes"
+  },
+  {
+    "id": "FOD007",
+    "category": "Food & Drink",
+    "difficulty": "medium",
+    "question": "What is the main ingredient in traditional hummus?",
+    "answer": "Chickpeas"
+  },
+  {
+    "id": "FOD008",
+    "category": "Food & Drink",
+    "difficulty": "easy",
+    "question": "What dairy product is used to make butter?",
+    "answer": "Cream"
+  },
+  {
+    "id": "FOD009",
+    "category": "Food & Drink",
+    "difficulty": "medium",
+    "question": "What is the main ingredient in traditional miso?",
+    "answer": "Soybeans"
+  },
+  {
+    "id": "FOD010",
+    "category": "Food & Drink",
+    "difficulty": "easy",
+    "question": "What citrus fruit is used in lemonade?",
+    "answer": "Lemon"
+  },
+  {
+    "id": "FOD011",
+    "category": "Food & Drink",
+    "difficulty": "hard",
+    "question": "What is the name of the French mother sauce based on milk thickened with a roux?",
+    "answer": "Béchamel"
+  },
+  {
+    "id": "FOD012",
+    "category": "Food & Drink",
+    "difficulty": "medium",
+    "question": "Which herb is essential in traditional pesto alla Genovese?",
+    "answer": "Basil"
+  },
+  {
+    "id": "FOD013",
+    "category": "Food & Drink",
+    "difficulty": "easy",
+    "question": "What nut is commonly used to make marzipan?",
+    "answer": "Almond"
+  },
+  {
+    "id": "FOD014",
+    "category": "Food & Drink",
+    "difficulty": "medium",
+    "question": "What grain is traditionally used in risotto?",
+    "answer": "Rice"
+  },
+  {
+    "id": "FOD015",
+    "category": "Food & Drink",
+    "difficulty": "hard",
+    "question": "What is the Japanese term for the savory fifth taste?",
+    "answer": "Umami"
+  },
+  {
+    "id": "FOD016",
+    "category": "Food & Drink",
+    "difficulty": "medium",
+    "question": "What type of pastry is used for éclairs?",
+    "answer": "Choux pastry"
+  },
+  {
+    "id": "FOD017",
+    "category": "Food & Drink",
+    "difficulty": "easy",
+    "question": "What vegetable is the main ingredient in sauerkraut?",
+    "answer": "Cabbage"
+  },
+  {
+    "id": "FOD018",
+    "category": "Food & Drink",
+    "difficulty": "medium",
+    "question": "What legume is commonly used to make falafel?",
+    "answer": "Chickpeas"
+  },
+  {
+    "id": "FOD019",
+    "category": "Food & Drink",
+    "difficulty": "easy",
+    "question": "What fruit gives banana bread its name?",
+    "answer": "Banana"
+  },
+  {
+    "id": "FOD020",
+    "category": "Food & Drink",
+    "difficulty": "hard",
+    "question": "What is the main fermented ingredient in traditional sourdough starter?",
+    "answer": "Flour and water culture with wild yeast and bacteria"
+  },
+  {
+    "id": "FOD021",
+    "category": "Food & Drink",
+    "difficulty": "medium",
+    "question": "Which spice comes from the dried flower stigma of Crocus sativus?",
+    "answer": "Saffron"
+  },
+  {
+    "id": "FOD022",
+    "category": "Food & Drink",
+    "difficulty": "easy",
+    "question": "What ingredient is essential in traditional popcorn?",
+    "answer": "Corn"
+  },
+  {
+    "id": "FOD023",
+    "category": "Food & Drink",
+    "difficulty": "medium",
+    "question": "What is tofu made from?",
+    "answer": "Soybeans"
+  },
+  {
+    "id": "FOD024",
+    "category": "Food & Drink",
+    "difficulty": "easy",
+    "question": "What fruit is commonly used to make cider?",
+    "answer": "Apples"
+  },
+  {
+    "id": "FOD025",
+    "category": "Food & Drink",
+    "difficulty": "hard",
+    "question": "What Italian cheese is traditionally made from buffalo milk in the Campania region?",
+    "answer": "Mozzarella di bufala"
+  },
+  {
+    "id": "FOD026",
+    "category": "Food & Drink",
+    "difficulty": "medium",
+    "question": "What type of rice is commonly used for sushi?",
+    "answer": "Short-grain rice"
+  },
+  {
+    "id": "FOD027",
+    "category": "Food & Drink",
+    "difficulty": "easy",
+    "question": "What ingredient gives bread dough its rise in yeast bread?",
+    "answer": "Yeast"
+  },
+  {
+    "id": "FOD028",
+    "category": "Food & Drink",
+    "difficulty": "medium",
+    "question": "What is tahini made from?",
+    "answer": "Sesame seeds"
+  },
+  {
+    "id": "FOD029",
+    "category": "Food & Drink",
+    "difficulty": "easy",
+    "question": "What is the main ingredient in traditional peanut butter?",
+    "answer": "Peanuts"
+  },
+  {
+    "id": "FOD030",
+    "category": "Food & Drink",
+    "difficulty": "hard",
+    "question": "What cooking technique means to cook food briefly in boiling water and then cool it rapidly?",
+    "answer": "Blanching"
+  },
+  {
+    "id": "FOD031",
+    "category": "Food & Drink",
+    "difficulty": "medium",
+    "question": "Which fruit is traditionally used in a tarte Tatin?",
+    "answer": "Apples"
+  },
+  {
+    "id": "FOD032",
+    "category": "Food & Drink",
+    "difficulty": "easy",
+    "question": "What sweet substance do bees produce?",
+    "answer": "Honey"
+  },
+  {
+    "id": "FOD033",
+    "category": "Food & Drink",
+    "difficulty": "easy",
+    "question": "What vegetable is used to make traditional French ratatouille?",
+    "answer": "Eggplant"
+  },
+  {
+    "id": "FOD034",
+    "category": "Food & Drink",
+    "difficulty": "medium",
+    "question": "Which herb is commonly paired with tomato and mozzarella in Caprese salad?",
+    "answer": "Basil"
+  },
+  {
+    "id": "FOD035",
+    "category": "Food & Drink",
+    "difficulty": "hard",
+    "question": "What is the main ingredient of traditional Japanese natto?",
+    "answer": "Fermented soybeans"
+  },
+  {
+    "id": "FOD036",
+    "category": "Food & Drink",
+    "difficulty": "easy",
+    "question": "What is the primary ingredient in French fries?",
+    "answer": "Potatoes"
+  },
+  {
+    "id": "BOD001",
+    "category": "Human Body",
+    "difficulty": "easy",
+    "question": "How many chambers does the human heart have?",
+    "answer": "Four"
+  },
+  {
+    "id": "BOD002",
+    "category": "Human Body",
+    "difficulty": "easy",
+    "question": "What organ pumps blood around the body?",
+    "answer": "Heart"
+  },
+  {
+    "id": "BOD003",
+    "category": "Human Body",
+    "difficulty": "medium",
+    "question": "What is the largest bone in the human body?",
+    "answer": "Femur"
+  },
+  {
+    "id": "BOD004",
+    "category": "Human Body",
+    "difficulty": "easy",
+    "question": "Which organ is primarily responsible for breathing?",
+    "answer": "Lungs"
+  },
+  {
+    "id": "BOD005",
+    "category": "Human Body",
+    "difficulty": "medium",
+    "question": "What is the body's main filtering organ for many toxins and nutrients?",
+    "answer": "Liver"
+  },
+  {
+    "id": "BOD006",
+    "category": "Human Body",
+    "difficulty": "easy",
+    "question": "What part of the body contains the brain?",
+    "answer": "Skull"
+  },
+  {
+    "id": "BOD007",
+    "category": "Human Body",
+    "difficulty": "medium",
+    "question": "Which blood vessels carry blood away from the heart?",
+    "answer": "Arteries"
+  },
+  {
+    "id": "BOD008",
+    "category": "Human Body",
+    "difficulty": "easy",
+    "question": "What organ is responsible for hearing?",
+    "answer": "Ear"
+  },
+  {
+    "id": "BOD009",
+    "category": "Human Body",
+    "difficulty": "medium",
+    "question": "What part of the brain controls many automatic functions such as breathing and heart rate?",
+    "answer": "Brainstem"
+  },
+  {
+    "id": "BOD010",
+    "category": "Human Body",
+    "difficulty": "easy",
+    "question": "What is the normal human body temperature commonly approximated as?",
+    "answer": "37°C"
+  },
+  {
+    "id": "BOD011",
+    "category": "Human Body",
+    "difficulty": "hard",
+    "question": "What is the functional unit of the kidney?",
+    "answer": "Nephron"
+  },
+  {
+    "id": "BOD012",
+    "category": "Human Body",
+    "difficulty": "medium",
+    "question": "Which vitamin is produced in the skin in response to sunlight?",
+    "answer": "Vitamin D"
+  },
+  {
+    "id": "BOD013",
+    "category": "Human Body",
+    "difficulty": "easy",
+    "question": "What organ produces bile?",
+    "answer": "Liver"
+  },
+  {
+    "id": "BOD014",
+    "category": "Human Body",
+    "difficulty": "medium",
+    "question": "What is the largest lobe of the brain?",
+    "answer": "Frontal lobe"
+  },
+  {
+    "id": "BOD015",
+    "category": "Human Body",
+    "difficulty": "easy",
+    "question": "What connects the brain to the spinal cord?",
+    "answer": "Brainstem"
+  },
+  {
+    "id": "BOD016",
+    "category": "Human Body",
+    "difficulty": "hard",
+    "question": "Which cranial nerve is responsible for much of the parasympathetic control of the heart and digestive tract?",
+    "answer": "Vagus nerve"
+  },
+  {
+    "id": "BOD017",
+    "category": "Human Body",
+    "difficulty": "medium",
+    "question": "What type of blood cell helps fight infection?",
+    "answer": "White blood cell"
+  },
+  {
+    "id": "BOD018",
+    "category": "Human Body",
+    "difficulty": "easy",
+    "question": "What liquid part of blood carries cells and proteins?",
+    "answer": "Plasma"
+  },
+  {
+    "id": "BOD019",
+    "category": "Human Body",
+    "difficulty": "medium",
+    "question": "What is the voice box called?",
+    "answer": "Larynx"
+  },
+  {
+    "id": "BOD020",
+    "category": "Human Body",
+    "difficulty": "easy",
+    "question": "What joint connects the upper arm to the shoulder?",
+    "answer": "Shoulder joint"
+  },
+  {
+    "id": "BOD021",
+    "category": "Human Body",
+    "difficulty": "hard",
+    "question": "Which hormone is primarily responsible for lowering blood glucose?",
+    "answer": "Insulin"
+  },
+  {
+    "id": "BOD022",
+    "category": "Human Body",
+    "difficulty": "medium",
+    "question": "What is the protective fluid surrounding the brain and spinal cord called?",
+    "answer": "Cerebrospinal fluid"
+  },
+  {
+    "id": "BOD023",
+    "category": "Human Body",
+    "difficulty": "easy",
+    "question": "What organ stores urine before it leaves the body?",
+    "answer": "Bladder"
+  },
+  {
+    "id": "BOD024",
+    "category": "Human Body",
+    "difficulty": "medium",
+    "question": "What is the main mineral component of bones?",
+    "answer": "Calcium phosphate"
+  },
+  {
+    "id": "BOD025",
+    "category": "Human Body",
+    "difficulty": "easy",
+    "question": "What is the windpipe called?",
+    "answer": "Trachea"
+  },
+  {
+    "id": "BOD026",
+    "category": "Human Body",
+    "difficulty": "hard",
+    "question": "What structure in the inner ear is chiefly responsible for hearing?",
+    "answer": "Cochlea"
+  },
+  {
+    "id": "BOD027",
+    "category": "Human Body",
+    "difficulty": "medium",
+    "question": "What is the body's largest muscle by mass commonly considered?",
+    "answer": "Gluteus maximus"
+  },
+  {
+    "id": "BOD028",
+    "category": "Human Body",
+    "difficulty": "easy",
+    "question": "What organ helps regulate blood sugar and digestion by producing hormones and enzymes?",
+    "answer": "Pancreas"
+  },
+  {
+    "id": "BOD029",
+    "category": "Human Body",
+    "difficulty": "medium",
+    "question": "What are the body's tiny blood vessels called?",
+    "answer": "Capillaries"
+  },
+  {
+    "id": "BOD030",
+    "category": "Human Body",
+    "difficulty": "easy",
+    "question": "What part of the eye controls how much light enters?",
+    "answer": "Iris"
+  },
+  {
+    "id": "BOD031",
+    "category": "Human Body",
+    "difficulty": "hard",
+    "question": "What is the junction between a neuron and another cell called?",
+    "answer": "Synapse"
+  },
+  {
+    "id": "BOD032",
+    "category": "Human Body",
+    "difficulty": "medium",
+    "question": "What molecule carries genetic information in human cells?",
+    "answer": "DNA"
+  },
+  {
+    "id": "BOD033",
+    "category": "Human Body",
+    "difficulty": "easy",
+    "question": "Which organ is responsible for pumping oxygenated blood into the body's circulation?",
+    "answer": "Heart"
+  },
+  {
+    "id": "BOD034",
+    "category": "Human Body",
+    "difficulty": "medium",
+    "question": "What is the main function of red blood cells?",
+    "answer": "Transport oxygen"
+  },
+  {
+    "id": "BOD035",
+    "category": "Human Body",
+    "difficulty": "easy",
+    "question": "What tissue connects bone to bone?",
+    "answer": "Ligament"
+  },
+  {
+    "id": "USE001",
+    "category": "Useless Knowledge",
+    "difficulty": "easy",
+    "question": "What is the name for the symbols used to represent a smiley face in text?",
+    "answer": "Emoticons"
+  },
+  {
+    "id": "USE002",
+    "category": "Useless Knowledge",
+    "difficulty": "medium",
+    "question": "What is the dot over a lowercase i called?",
+    "answer": "Tittle"
+  },
+  {
+    "id": "USE003",
+    "category": "Useless Knowledge",
+    "difficulty": "medium",
+    "question": "What is the plastic end of a shoelace called?",
+    "answer": "Aglet"
+  },
+  {
+    "id": "USE004",
+    "category": "Useless Knowledge",
+    "difficulty": "easy",
+    "question": "What is the name for the three dots used to indicate omitted text?",
+    "answer": "Ellipsis"
+  },
+  {
+    "id": "USE005",
+    "category": "Useless Knowledge",
+    "difficulty": "medium",
+    "question": "What is the symbol & called?",
+    "answer": "Ampersand"
+  },
+  {
+    "id": "USE006",
+    "category": "Useless Knowledge",
+    "difficulty": "easy",
+    "question": "What is a word made by rearranging another word's letters called?",
+    "answer": "Anagram"
+  },
+  {
+    "id": "USE007",
+    "category": "Useless Knowledge",
+    "difficulty": "hard",
+    "question": "What is the study of handwriting called?",
+    "answer": "Graphology"
+  },
+  {
+    "id": "USE008",
+    "category": "Useless Knowledge",
+    "difficulty": "easy",
+    "question": "What do you call a word that imitates a sound?",
+    "answer": "Onomatopoeia"
+  },
+  {
+    "id": "USE009",
+    "category": "Useless Knowledge",
+    "difficulty": "medium",
+    "question": "What is a sentence containing every letter of the alphabet called?",
+    "answer": "Pangram"
+  },
+  {
+    "id": "USE010",
+    "category": "Useless Knowledge",
+    "difficulty": "easy",
+    "question": "What is a word that reads the same backward and forward called?",
+    "answer": "Palindrome"
+  },
+  {
+    "id": "USE011",
+    "category": "Useless Knowledge",
+    "difficulty": "medium",
+    "question": "What is the name for the # symbol?",
+    "answer": "Number sign"
+  },
+  {
+    "id": "USE012",
+    "category": "Useless Knowledge",
+    "difficulty": "easy",
+    "question": "What is the term for a group of words beginning with the same sound?",
+    "answer": "Alliteration"
+  },
+  {
+    "id": "USE013",
+    "category": "Useless Knowledge",
+    "difficulty": "medium",
+    "question": "What is the indentation in the bottom of many wine bottles called?",
+    "answer": "Punt"
+  },
+  {
+    "id": "USE014",
+    "category": "Useless Knowledge",
+    "difficulty": "easy",
+    "question": "What is a word with the opposite meaning of another word called?",
+    "answer": "Antonym"
+  },
+  {
+    "id": "USE015",
+    "category": "Useless Knowledge",
+    "difficulty": "medium",
+    "question": "What is a word with the same meaning as another word called?",
+    "answer": "Synonym"
+  },
+  {
+    "id": "USE016",
+    "category": "Useless Knowledge",
+    "difficulty": "easy",
+    "question": "What is a person who collects stamps called?",
+    "answer": "Philatelist"
+  },
+  {
+    "id": "USE017",
+    "category": "Useless Knowledge",
+    "difficulty": "hard",
+    "question": "What is the study of coins and currency called?",
+    "answer": "Numismatics"
+  },
+  {
+    "id": "USE018",
+    "category": "Useless Knowledge",
+    "difficulty": "medium",
+    "question": "What is the word for a fear of spiders?",
+    "answer": "Arachnophobia"
+  },
+  {
+    "id": "USE019",
+    "category": "Useless Knowledge",
+    "difficulty": "easy",
+    "question": "What is the name for a group of stars forming a recognizable pattern?",
+    "answer": "Constellation"
+  },
+  {
+    "id": "USE020",
+    "category": "Useless Knowledge",
+    "difficulty": "medium",
+    "question": "What is the name of the punctuation mark used to show possession in English?",
+    "answer": "Apostrophe"
+  },
+  {
+    "id": "USE021",
+    "category": "Useless Knowledge",
+    "difficulty": "easy",
+    "question": "What is a word formed from the first letters of other words and pronounced as a word?",
+    "answer": "Acronym"
+  },
+  {
+    "id": "USE022",
+    "category": "Useless Knowledge",
+    "difficulty": "hard",
+    "question": "What is the typographic term for a decorative symbol used as a section marker?",
+    "answer": "Fleuron"
+  },
+  {
+    "id": "USE023",
+    "category": "Useless Knowledge",
+    "difficulty": "medium",
+    "question": "What is the name of the sound of a cat?",
+    "answer": "Meow"
+  },
+  {
+    "id": "USE024",
+    "category": "Useless Knowledge",
+    "difficulty": "easy",
+    "question": "What is the name for a baby frog?",
+    "answer": "Tadpole"
+  },
+  {
+    "id": "USE025",
+    "category": "Useless Knowledge",
+    "difficulty": "medium",
+    "question": "What is the collective noun commonly used for a group of flamingos?",
+    "answer": "Flamboyance"
+  },
+  {
+    "id": "USE026",
+    "category": "Useless Knowledge",
+    "difficulty": "easy",
+    "question": "What is a group of fish commonly called?",
+    "answer": "School"
+  },
+  {
+    "id": "USE027",
+    "category": "Useless Knowledge",
+    "difficulty": "hard",
+    "question": "What is the collective noun traditionally used for ravens?",
+    "answer": "Unkindness"
+  },
+  {
+    "id": "USE028",
+    "category": "Useless Knowledge",
+    "difficulty": "medium",
+    "question": "What is the name for a group of owls?",
+    "answer": "Parliament"
+  },
+  {
+    "id": "USE029",
+    "category": "Useless Knowledge",
+    "difficulty": "easy",
+    "question": "What is the name for a group of dogs?",
+    "answer": "Pack"
+  },
+  {
+    "id": "USE030",
+    "category": "Useless Knowledge",
+    "difficulty": "medium",
+    "question": "What is the name for a group of geese on the ground?",
+    "answer": "Gaggle"
+  },
+  {
+    "id": "USE031",
+    "category": "Useless Knowledge",
+    "difficulty": "hard",
+    "question": "What is a group of porcupines sometimes called?",
+    "answer": "Prickle"
+  },
+  {
+    "id": "USE032",
+    "category": "Useless Knowledge",
+    "difficulty": "easy",
+    "question": "What is a young sheep called?",
+    "answer": "Lamb"
+  },
+  {
+    "id": "USE033",
+    "category": "Useless Knowledge",
+    "difficulty": "medium",
+    "question": "What is a young deer called?",
+    "answer": "Fawn"
+  },
+  {
+    "id": "USE034",
+    "category": "Useless Knowledge",
+    "difficulty": "easy",
+    "question": "What is a young swan called?",
+    "answer": "Cygnet"
+  },
+  {
+    "id": "USE035",
+    "category": "Useless Knowledge",
+    "difficulty": "hard",
+    "question": "What is a young goat called?",
+    "answer": "Kid"
+  },
+  {
+    "id": "MOV001",
+    "category": "Movies & Entertainment",
+    "difficulty": "easy",
+    "question": "What fictional school does Harry Potter attend?",
+    "answer": "Hogwarts"
+  },
+  {
+    "id": "MOV002",
+    "category": "Movies & Entertainment",
+    "difficulty": "easy",
+    "question": "Who is the superhero alter ego of Bruce Wayne?",
+    "answer": "Batman"
+  },
+  {
+    "id": "MOV003",
+    "category": "Movies & Entertainment",
+    "difficulty": "medium",
+    "question": "What is the name of the kingdom in Disney's Frozen?",
+    "answer": "Arendelle"
+  },
+  {
+    "id": "MOV004",
+    "category": "Movies & Entertainment",
+    "difficulty": "easy",
+    "question": "Which movie features the character Simba?",
+    "answer": "The Lion King"
+  },
+  {
+    "id": "MOV005",
+    "category": "Movies & Entertainment",
+    "difficulty": "medium",
+    "question": "Who directed the movie Jaws?",
+    "answer": "Steven Spielberg"
+  },
+  {
+    "id": "MOV006",
+    "category": "Movies & Entertainment",
+    "difficulty": "easy",
+    "question": "What is the name of the cowboy toy in Toy Story?",
+    "answer": "Woody"
+  },
+  {
+    "id": "MOV007",
+    "category": "Movies & Entertainment",
+    "difficulty": "medium",
+    "question": "Which film series features the character Indiana Jones?",
+    "answer": "Indiana Jones"
+  },
+  {
+    "id": "MOV008",
+    "category": "Movies & Entertainment",
+    "difficulty": "easy",
+    "question": "Who is the protagonist of The Matrix played by Keanu Reeves?",
+    "answer": "Neo"
+  },
+  {
+    "id": "MOV009",
+    "category": "Movies & Entertainment",
+    "difficulty": "medium",
+    "question": "What is the fictional African nation in Black Panther?",
+    "answer": "Wakanda"
+  },
+  {
+    "id": "MOV010",
+    "category": "Movies & Entertainment",
+    "difficulty": "easy",
+    "question": "Which animated film features the character Elsa?",
+    "answer": "Frozen"
+  },
+  {
+    "id": "MOV011",
+    "category": "Movies & Entertainment",
+    "difficulty": "hard",
+    "question": "What is the name of the hotel in The Shining?",
+    "answer": "The Overlook Hotel"
+  },
+  {
+    "id": "MOV012",
+    "category": "Movies & Entertainment",
+    "difficulty": "medium",
+    "question": "Which actor played Jack in Titanic?",
+    "answer": "Leonardo DiCaprio"
+  },
+  {
+    "id": "MOV013",
+    "category": "Movies & Entertainment",
+    "difficulty": "easy",
+    "question": "What is the name of the princess in Aladdin?",
+    "answer": "Jasmine"
+  },
+  {
+    "id": "MOV014",
+    "category": "Movies & Entertainment",
+    "difficulty": "medium",
+    "question": "Which film includes the quote concept of 'the Force'?",
+    "answer": "Star Wars"
+  },
+  {
+    "id": "MOV015",
+    "category": "Movies & Entertainment",
+    "difficulty": "easy",
+    "question": "What is the name of the snowman in Frozen?",
+    "answer": "Olaf"
+  },
+  {
+    "id": "MOV016",
+    "category": "Movies & Entertainment",
+    "difficulty": "hard",
+    "question": "What was the first feature-length animated film released by Disney?",
+    "answer": "Snow White and the Seven Dwarfs"
+  },
+  {
+    "id": "MOV017",
+    "category": "Movies & Entertainment",
+    "difficulty": "medium",
+    "question": "Who played Iron Man in the Marvel Cinematic Universe?",
+    "answer": "Robert Downey Jr."
+  },
+  {
+    "id": "MOV018",
+    "category": "Movies & Entertainment",
+    "difficulty": "easy",
+    "question": "Which movie features dinosaurs brought back through genetic technology?",
+    "answer": "Jurassic Park"
+  },
+  {
+    "id": "MOV019",
+    "category": "Movies & Entertainment",
+    "difficulty": "medium",
+    "question": "What is the name of Dorothy's dog in The Wizard of Oz?",
+    "answer": "Toto"
+  },
+  {
+    "id": "MOV020",
+    "category": "Movies & Entertainment",
+    "difficulty": "easy",
+    "question": "Which wizard is famously associated with a lightning-shaped scar?",
+    "answer": "Harry Potter"
+  },
+  {
+    "id": "MOV021",
+    "category": "Movies & Entertainment",
+    "difficulty": "hard",
+    "question": "What is the fictional town where Stranger Things is primarily set?",
+    "answer": "Hawkins"
+  },
+  {
+    "id": "MOV022",
+    "category": "Movies & Entertainment",
+    "difficulty": "medium",
+    "question": "Who played the title character in Edward Scissorhands?",
+    "answer": "Johnny Depp"
+  },
+  {
+    "id": "MOV023",
+    "category": "Movies & Entertainment",
+    "difficulty": "easy",
+    "question": "What is the name of the ship in Pirates of the Caribbean captained by Jack Sparrow?",
+    "answer": "Black Pearl"
+  },
+  {
+    "id": "MOV024",
+    "category": "Movies & Entertainment",
+    "difficulty": "medium",
+    "question": "Which film features the character Forrest Gump?",
+    "answer": "Forrest Gump"
+  },
+  {
+    "id": "MOV025",
+    "category": "Movies & Entertainment",
+    "difficulty": "easy",
+    "question": "What is the name of the fish father searching for his son in Finding Nemo?",
+    "answer": "Marlin"
+  },
+  {
+    "id": "MOV026",
+    "category": "Movies & Entertainment",
+    "difficulty": "hard",
+    "question": "Which director made Pulp Fiction?",
+    "answer": "Quentin Tarantino"
+  },
+  {
+    "id": "MOV027",
+    "category": "Movies & Entertainment",
+    "difficulty": "medium",
+    "question": "What is the name of the fictional continent in Game of Thrones where King's Landing is located?",
+    "answer": "Westeros"
+  },
+  {
+    "id": "MOV028",
+    "category": "Movies & Entertainment",
+    "difficulty": "easy",
+    "question": "Who is the main villain in The Lion King?",
+    "answer": "Scar"
+  },
+  {
+    "id": "MOV029",
+    "category": "Movies & Entertainment",
+    "difficulty": "medium",
+    "question": "Which actress played Hermione Granger in the Harry Potter films?",
+    "answer": "Emma Watson"
+  },
+  {
+    "id": "MOV030",
+    "category": "Movies & Entertainment",
+    "difficulty": "easy",
+    "question": "What is the name of the robot in WALL-E?",
+    "answer": "WALL-E"
+  },
+  {
+    "id": "MOV031",
+    "category": "Movies & Entertainment",
+    "difficulty": "hard",
+    "question": "Which 1999 film centers on a narrator and Tyler Durden?",
+    "answer": "Fight Club"
+  },
+  {
+    "id": "MOV032",
+    "category": "Movies & Entertainment",
+    "difficulty": "medium",
+    "question": "What is the name of the city in which Batman operates?",
+    "answer": "Gotham City"
+  },
+  {
+    "id": "MOV033",
+    "category": "Movies & Entertainment",
+    "difficulty": "easy",
+    "question": "Which Pixar film features emotions named Joy, Sadness, and Anger?",
+    "answer": "Inside Out"
+  },
+  {
+    "id": "MOV034",
+    "category": "Movies & Entertainment",
+    "difficulty": "medium",
+    "question": "Who played the Joker in The Dark Knight?",
+    "answer": "Heath Ledger"
+  },
+  {
+    "id": "MOV035",
+    "category": "Movies & Entertainment",
+    "difficulty": "easy",
+    "question": "What kind of creature is Shrek?",
+    "answer": "Ogre"
+  },
+  {
+    "id": "SPT001",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "How many players are on the field for one soccer team during regulation play?",
+    "answer": "11"
+  },
+  {
+    "id": "SPT002",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "How many rings are on the Olympic flag?",
+    "answer": "Five"
+  },
+  {
+    "id": "SPT003",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "In tennis, what is a score of zero called?",
+    "answer": "Love"
+  },
+  {
+    "id": "SPT004",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which sport uses a shuttlecock?",
+    "answer": "Badminton"
+  },
+  {
+    "id": "SPT005",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "How many points is a touchdown worth in American football before the extra point?",
+    "answer": "Six"
+  },
+  {
+    "id": "SPT006",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which sport uses wickets?",
+    "answer": "Cricket"
+  },
+  {
+    "id": "SPT007",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "How many players are on the court for one basketball team at a time?",
+    "answer": "Five"
+  },
+  {
+    "id": "SPT008",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which country is strongly associated with sumo wrestling?",
+    "answer": "Japan"
+  },
+  {
+    "id": "SPT009",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What is the distance of a marathon?",
+    "answer": "42.195 kilometers"
+  },
+  {
+    "id": "SPT010",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which sport features the Tour de France?",
+    "answer": "Cycling"
+  },
+  {
+    "id": "SPT011",
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "What is the maximum break in snooker?",
+    "answer": "147"
+  },
+  {
+    "id": "SPT012",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "How many sets are typically needed to win a men's Grand Slam tennis match?",
+    "answer": "Three sets"
+  },
+  {
+    "id": "SPT013",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which sport uses a pommel horse?",
+    "answer": "Gymnastics"
+  },
+  {
+    "id": "SPT014",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What is the term for three strikes in a row in bowling?",
+    "answer": "Turkey"
+  },
+  {
+    "id": "SPT015",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which sport awards a yellow card for certain fouls?",
+    "answer": "Football (soccer)"
+  },
+  {
+    "id": "SPT016",
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "How many points is a safety worth in American football?",
+    "answer": "Two"
+  },
+  {
+    "id": "SPT017",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which country hosted the first modern Olympic Games in 1896?",
+    "answer": "Greece"
+  },
+  {
+    "id": "SPT018",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "What sport is played at Wimbledon?",
+    "answer": "Tennis"
+  },
+  {
+    "id": "SPT019",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "How many holes are in a standard round of golf?",
+    "answer": "18"
+  },
+  {
+    "id": "SPT020",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "What piece of equipment protects a cricket batsman's head?",
+    "answer": "Helmet"
+  },
+  {
+    "id": "SPT021",
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "What is the diameter of a basketball hoop in inches under standard regulation?",
+    "answer": "18 inches"
+  },
+  {
+    "id": "SPT022",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "In baseball, how many strikes normally result in a strikeout?",
+    "answer": "Three"
+  },
+  {
+    "id": "SPT023",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which sport uses a puck?",
+    "answer": "Ice hockey"
+  },
+  {
+    "id": "SPT024",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What is the term for scoring three goals by one player in a game?",
+    "answer": "Hat-trick"
+  },
+  {
+    "id": "SPT025",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which sport features a scrum?",
+    "answer": "Rugby"
+  },
+  {
+    "id": "SPT026",
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "How many points is a try worth in rugby union?",
+    "answer": "Five"
+  },
+  {
+    "id": "SPT027",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What is the name of the race combining swimming, cycling, and running?",
+    "answer": "Triathlon"
+  },
+  {
+    "id": "SPT028",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which sport is associated with the pommel horse, rings, and vault?",
+    "answer": "Gymnastics"
+  },
+  {
+    "id": "SPT029",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "How many players are on a volleyball team on court?",
+    "answer": "Six"
+  },
+  {
+    "id": "SPT030",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which sport uses a foil, épée, and sabre?",
+    "answer": "Fencing"
+  },
+  {
+    "id": "SPT031",
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "What is the standard height of a basketball hoop from the floor?",
+    "answer": "10 feet"
+  },
+  {
+    "id": "SPT032",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which sport's major international tournament is the Ryder Cup?",
+    "answer": "Golf"
+  },
+  {
+    "id": "SPT033",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "What is a perfect score in ten-pin bowling?",
+    "answer": "300"
+  },
+  {
+    "id": "SPT034",
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which sport has terms such as scrum-half and fly-half?",
+    "answer": "Rugby"
+  },
+  {
+    "id": "SPT035",
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "What is the playing surface in baseball called?",
+    "answer": "Diamond"
+  },
+  {
+    "id": "LAN001",
+    "category": "Language & Words",
+    "difficulty": "easy",
+    "question": "What is the plural of 'criterion'?",
+    "answer": "Criteria"
+  },
+  {
+    "id": "LAN002",
+    "category": "Language & Words",
+    "difficulty": "medium",
+    "question": "What is the opposite of 'scarce'?",
+    "answer": "Abundant"
+  },
+  {
+    "id": "LAN003",
+    "category": "Language & Words",
+    "difficulty": "easy",
+    "question": "What is a noun that names a person, place, or thing?",
+    "answer": "Noun"
+  },
+  {
+    "id": "LAN004",
+    "category": "Language & Words",
+    "difficulty": "medium",
+    "question": "What is the past tense of 'go'?",
+    "answer": "Went"
+  },
+  {
+    "id": "LAN005",
+    "category": "Language & Words",
+    "difficulty": "easy",
+    "question": "What is a word that describes an action called?",
+    "answer": "Verb"
+  },
+  {
+    "id": "LAN006",
+    "category": "Language & Words",
+    "difficulty": "medium",
+    "question": "What is a word that modifies a noun called?",
+    "answer": "Adjective"
+  },
+  {
+    "id": "LAN007",
+    "category": "Language & Words",
+    "difficulty": "easy",
+    "question": "What is the main language spoken in Brazil?",
+    "answer": "Portuguese"
+  },
+  {
+    "id": "LAN008",
+    "category": "Language & Words",
+    "difficulty": "medium",
+    "question": "What is the official language of Japan?",
+    "answer": "Japanese"
+  },
+  {
+    "id": "LAN009",
+    "category": "Language & Words",
+    "difficulty": "easy",
+    "question": "What language uses the Cyrillic alphabet extensively?",
+    "answer": "Russian"
+  },
+  {
+    "id": "LAN010",
+    "category": "Language & Words",
+    "difficulty": "hard",
+    "question": "What is the linguistic term for a word borrowed from another language?",
+    "answer": "Loanword"
+  },
+  {
+    "id": "LAN011",
+    "category": "Language & Words",
+    "difficulty": "medium",
+    "question": "What is the smallest meaningful unit of language called?",
+    "answer": "Morpheme"
+  },
+  {
+    "id": "LAN012",
+    "category": "Language & Words",
+    "difficulty": "easy",
+    "question": "What is a comparison using 'like' or 'as' called?",
+    "answer": "Simile"
+  },
+  {
+    "id": "LAN013",
+    "category": "Language & Words",
+    "difficulty": "medium",
+    "question": "What is giving human qualities to non-human things called?",
+    "answer": "Personification"
+  },
+  {
+    "id": "LAN014",
+    "category": "Language & Words",
+    "difficulty": "easy",
+    "question": "What is an exaggerated statement not meant literally called?",
+    "answer": "Hyperbole"
+  },
+  {
+    "id": "LAN015",
+    "category": "Language & Words",
+    "difficulty": "hard",
+    "question": "What is a word with the same spelling and pronunciation but a different meaning called?",
+    "answer": "Homonym"
+  },
+  {
+    "id": "LAN016",
+    "category": "Language & Words",
+    "difficulty": "medium",
+    "question": "What is a word with the same pronunciation but different spelling and meaning called?",
+    "answer": "Homophone"
+  },
+  {
+    "id": "LAN017",
+    "category": "Language & Words",
+    "difficulty": "easy",
+    "question": "What is the opposite of 'ancient'?",
+    "answer": "Modern"
+  },
+  {
+    "id": "LAN018",
+    "category": "Language & Words",
+    "difficulty": "medium",
+    "question": "What is a group of lines in a poem called?",
+    "answer": "Stanza"
+  },
+  {
+    "id": "LAN019",
+    "category": "Language & Words",
+    "difficulty": "easy",
+    "question": "What punctuation mark ends a direct question?",
+    "answer": "Question mark"
+  },
+  {
+    "id": "LAN020",
+    "category": "Language & Words",
+    "difficulty": "medium",
+    "question": "What is the literary device of repeating initial consonant sounds called?",
+    "answer": "Alliteration"
+  },
+  {
+    "id": "LAN021",
+    "category": "Language & Words",
+    "difficulty": "hard",
+    "question": "What is the study of sentence structure called?",
+    "answer": "Syntax"
+  },
+  {
+    "id": "LAN022",
+    "category": "Language & Words",
+    "difficulty": "easy",
+    "question": "What is a word that replaces a noun called?",
+    "answer": "Pronoun"
+  },
+  {
+    "id": "LAN023",
+    "category": "Language & Words",
+    "difficulty": "medium",
+    "question": "What is the comparative form of 'good'?",
+    "answer": "Better"
+  },
+  {
+    "id": "LAN024",
+    "category": "Language & Words",
+    "difficulty": "easy",
+    "question": "What is the superlative form of 'bad'?",
+    "answer": "Worst"
+  },
+  {
+    "id": "LAN025",
+    "category": "Language & Words",
+    "difficulty": "medium",
+    "question": "What is a phrase with a figurative meaning that cannot usually be understood literally called?",
+    "answer": "Idiom"
+  },
+  {
+    "id": "LAN026",
+    "category": "Language & Words",
+    "difficulty": "hard",
+    "question": "What is the study of meaning in language called?",
+    "answer": "Semantics"
+  },
+  {
+    "id": "LAN027",
+    "category": "Language & Words",
+    "difficulty": "easy",
+    "question": "What is a word with nearly the same meaning as another word called?",
+    "answer": "Synonym"
+  },
+  {
+    "id": "LAN028",
+    "category": "Language & Words",
+    "difficulty": "medium",
+    "question": "What is a word with the opposite meaning called?",
+    "answer": "Antonym"
+  },
+  {
+    "id": "LAN029",
+    "category": "Language & Words",
+    "difficulty": "easy",
+    "question": "What is the first letter of a word called?",
+    "answer": "Initial"
+  },
+  {
+    "id": "LAN030",
+    "category": "Language & Words",
+    "difficulty": "medium",
+    "question": "What is the end of a word that changes its grammatical function called?",
+    "answer": "Suffix"
+  },
+  {
+    "id": "LAN031",
+    "category": "Language & Words",
+    "difficulty": "hard",
+    "question": "What is the beginning part added to a word to change its meaning called?",
+    "answer": "Prefix"
+  },
+  {
+    "id": "LAN032",
+    "category": "Language & Words",
+    "difficulty": "easy",
+    "question": "What is a sentence with one independent clause called?",
+    "answer": "Simple sentence"
+  },
+  {
+    "id": "LAN033",
+    "category": "Language & Words",
+    "difficulty": "medium",
+    "question": "What is a sentence containing two independent clauses joined appropriately called?",
+    "answer": "Compound sentence"
+  },
+  {
+    "id": "LAN034",
+    "category": "Language & Words",
+    "difficulty": "hard",
+    "question": "What is a sentence containing an independent clause and at least one dependent clause called?",
+    "answer": "Complex sentence"
+  },
+  {
+    "id": "LAN035",
+    "category": "Language & Words",
+    "difficulty": "easy",
+    "question": "What is the punctuation mark used to join closely related independent clauses?",
+    "answer": "Semicolon"
+  },
+  {
+    "id": "SCI001",
+    "category": "Science & Inventions",
+    "difficulty": "easy",
+    "question": "What is the chemical symbol for gold?",
+    "answer": "Au"
+  },
+  {
+    "id": "SCI002",
+    "category": "Science & Inventions",
+    "difficulty": "easy",
+    "question": "What gas is essential for human respiration?",
+    "answer": "Oxygen"
+  },
+  {
+    "id": "SCI003",
+    "category": "Science & Inventions",
+    "difficulty": "medium",
+    "question": "What is H2O commonly called?",
+    "answer": "Water"
+  },
+  {
+    "id": "SCI004",
+    "category": "Science & Inventions",
+    "difficulty": "easy",
+    "question": "What is the center of an atom called?",
+    "answer": "Nucleus"
+  },
+  {
+    "id": "SCI005",
+    "category": "Science & Inventions",
+    "difficulty": "medium",
+    "question": "What particle has a positive electric charge?",
+    "answer": "Proton"
+  },
+  {
+    "id": "SCI006",
+    "category": "Science & Inventions",
+    "difficulty": "easy",
+    "question": "What particle has no electric charge?",
+    "answer": "Neutron"
+  },
+  {
+    "id": "SCI007",
+    "category": "Science & Inventions",
+    "difficulty": "medium",
+    "question": "What unit measures electric current?",
+    "answer": "Ampere"
+  },
+  {
+    "id": "SCI008",
+    "category": "Science & Inventions",
+    "difficulty": "easy",
+    "question": "What force opposes motion between surfaces?",
+    "answer": "Friction"
+  },
+  {
+    "id": "SCI009",
+    "category": "Science & Inventions",
+    "difficulty": "medium",
+    "question": "What instrument measures temperature?",
+    "answer": "Thermometer"
+  },
+  {
+    "id": "SCI010",
+    "category": "Science & Inventions",
+    "difficulty": "easy",
+    "question": "What is the chemical symbol for sodium?",
+    "answer": "Na"
+  },
+  {
+    "id": "SCI011",
+    "category": "Science & Inventions",
+    "difficulty": "hard",
+    "question": "What is the SI unit of electrical resistance?",
+    "answer": "Ohm"
+  },
+  {
+    "id": "SCI012",
+    "category": "Science & Inventions",
+    "difficulty": "medium",
+    "question": "What type of energy is stored in a stretched spring?",
+    "answer": "Elastic potential energy"
+  },
+  {
+    "id": "SCI013",
+    "category": "Science & Inventions",
+    "difficulty": "easy",
+    "question": "What instrument is used to observe tiny objects?",
+    "answer": "Microscope"
+  },
+  {
+    "id": "SCI014",
+    "category": "Science & Inventions",
+    "difficulty": "medium",
+    "question": "What process do plants use to convert light energy into chemical energy?",
+    "answer": "Photosynthesis"
+  },
+  {
+    "id": "SCI015",
+    "category": "Science & Inventions",
+    "difficulty": "easy",
+    "question": "What is the boiling point of water at standard atmospheric pressure?",
+    "answer": "100°C"
+  },
+  {
+    "id": "SCI016",
+    "category": "Science & Inventions",
+    "difficulty": "hard",
+    "question": "Which scientist formulated the laws of planetary motion?",
+    "answer": "Johannes Kepler"
+  },
+  {
+    "id": "SCI017",
+    "category": "Science & Inventions",
+    "difficulty": "medium",
+    "question": "Who developed the theory of relativity?",
+    "answer": "Albert Einstein"
+  },
+  {
+    "id": "SCI018",
+    "category": "Science & Inventions",
+    "difficulty": "easy",
+    "question": "What is the chemical symbol for iron?",
+    "answer": "Fe"
+  },
+  {
+    "id": "SCI019",
+    "category": "Science & Inventions",
+    "difficulty": "medium",
+    "question": "What scale measures acidity and alkalinity?",
+    "answer": "pH scale"
+  },
+  {
+    "id": "SCI020",
+    "category": "Science & Inventions",
+    "difficulty": "easy",
+    "question": "What is the nearest star to Earth?",
+    "answer": "The Sun"
+  },
+  {
+    "id": "SCI021",
+    "category": "Science & Inventions",
+    "difficulty": "hard",
+    "question": "What is Avogadro's number approximately?",
+    "answer": "6.022 × 10^23"
+  },
+  {
+    "id": "SCI022",
+    "category": "Science & Inventions",
+    "difficulty": "medium",
+    "question": "What is the smallest unit of an element that retains its chemical properties?",
+    "answer": "Atom"
+  },
+  {
+    "id": "SCI023",
+    "category": "Science & Inventions",
+    "difficulty": "easy",
+    "question": "What instrument magnifies distant objects in astronomy?",
+    "answer": "Telescope"
+  },
+  {
+    "id": "SCI024",
+    "category": "Science & Inventions",
+    "difficulty": "medium",
+    "question": "What is the process by which liquid becomes solid?",
+    "answer": "Freezing"
+  },
+  {
+    "id": "SCI025",
+    "category": "Science & Inventions",
+    "difficulty": "easy",
+    "question": "What is the common name for sodium chloride?",
+    "answer": "Salt"
+  },
+  {
+    "id": "SCI026",
+    "category": "Science & Inventions",
+    "difficulty": "hard",
+    "question": "What is the SI unit of frequency?",
+    "answer": "Hertz"
+  },
+  {
+    "id": "SCI027",
+    "category": "Science & Inventions",
+    "difficulty": "medium",
+    "question": "What is the speed of sound fastest in?",
+    "answer": "Solids"
+  },
+  {
+    "id": "SCI028",
+    "category": "Science & Inventions",
+    "difficulty": "easy",
+    "question": "What is the force that attracts objects toward Earth?",
+    "answer": "Gravity"
+  },
+  {
+    "id": "SCI029",
+    "category": "Science & Inventions",
+    "difficulty": "medium",
+    "question": "What is a substance with a pH below 7 called?",
+    "answer": "Acid"
+  },
+  {
+    "id": "SCI030",
+    "category": "Science & Inventions",
+    "difficulty": "easy",
+    "question": "What is the chemical symbol for carbon?",
+    "answer": "C"
+  },
+  {
+    "id": "SCI031",
+    "category": "Science & Inventions",
+    "difficulty": "hard",
+    "question": "Which scientist discovered penicillin?",
+    "answer": "Alexander Fleming"
+  },
+  {
+    "id": "SCI032",
+    "category": "Science & Inventions",
+    "difficulty": "medium",
+    "question": "What device converts chemical energy into electrical energy in a battery?",
+    "answer": "Electrochemical cell"
+  },
+  {
+    "id": "SCI033",
+    "category": "Science & Inventions",
+    "difficulty": "easy",
+    "question": "What is the unit of power in the SI system?",
+    "answer": "Watt"
+  },
+  {
+    "id": "SCI034",
+    "category": "Science & Inventions",
+    "difficulty": "medium",
+    "question": "What is the bending of light as it passes between materials called?",
+    "answer": "Refraction"
+  },
+  {
+    "id": "SCI035",
+    "category": "Science & Inventions",
+    "difficulty": "easy",
+    "question": "What is a material that allows electric current to flow easily called?",
+    "answer": "Conductor"
+  },
+  {
+    "id": "SCI036",
+    "category": "Science & Inventions",
+    "difficulty": "hard",
+    "question": "What principle states that pressure applied to a confined fluid is transmitted throughout the fluid?",
+    "answer": "Pascal's principle"
+  },
+  {
+    "id": "IND001",
+    "category": "India & Culture",
+    "difficulty": "easy",
+    "question": "Which river is considered one of India's most sacred rivers?",
+    "answer": "Ganges"
+  },
+  {
+    "id": "IND002",
+    "category": "India & Culture",
+    "difficulty": "medium",
+    "question": "What is the national animal of India?",
+    "answer": "Bengal tiger"
+  },
+  {
+    "id": "IND003",
+    "category": "India & Culture",
+    "difficulty": "easy",
+    "question": "What is the national flower of India?",
+    "answer": "Lotus"
+  },
+  {
+    "id": "IND004",
+    "category": "India & Culture",
+    "difficulty": "medium",
+    "question": "Which monument in Agra is a UNESCO World Heritage Site and famous mausoleum?",
+    "answer": "Taj Mahal"
+  },
+  {
+    "id": "IND005",
+    "category": "India & Culture",
+    "difficulty": "easy",
+    "question": "What is India's national bird?",
+    "answer": "Indian peafowl"
+  },
+  {
+    "id": "IND006",
+    "category": "India & Culture",
+    "difficulty": "medium",
+    "question": "Which festival is widely known as the festival of lights?",
+    "answer": "Diwali"
+  },
+  {
+    "id": "IND007",
+    "category": "India & Culture",
+    "difficulty": "easy",
+    "question": "What is the classical dance form associated strongly with Kerala's storytelling tradition?",
+    "answer": "Kathakali"
+  },
+  {
+    "id": "IND008",
+    "category": "India & Culture",
+    "difficulty": "medium",
+    "question": "Which city is known as the Pink City?",
+    "answer": "Jaipur"
+  },
+  {
+    "id": "IND009",
+    "category": "India & Culture",
+    "difficulty": "easy",
+    "question": "What is the national aquatic animal of India?",
+    "answer": "Ganges river dolphin"
+  },
+  {
+    "id": "IND010",
+    "category": "India & Culture",
+    "difficulty": "hard",
+    "question": "Which ancient university site in Bihar was a major center of learning?",
+    "answer": "Nalanda"
+  },
+  {
+    "id": "IND011",
+    "category": "India & Culture",
+    "difficulty": "medium",
+    "question": "Which state is famous for the backwaters of Alappuzha?",
+    "answer": "Kerala"
+  },
+  {
+    "id": "IND012",
+    "category": "India & Culture",
+    "difficulty": "easy",
+    "question": "Which spice is strongly associated with Kashmir and prized for its red stigmas?",
+    "answer": "Saffron"
+  },
+  {
+    "id": "IND013",
+    "category": "India & Culture",
+    "difficulty": "medium",
+    "question": "What is the traditional Indian system of medicine called?",
+    "answer": "Ayurveda"
+  },
+  {
+    "id": "IND014",
+    "category": "India & Culture",
+    "difficulty": "easy",
+    "question": "Which city is famous for the Golden Temple?",
+    "answer": "Amritsar"
+  },
+  {
+    "id": "IND015",
+    "category": "India & Culture",
+    "difficulty": "hard",
+    "question": "Which classical language has one of the world's oldest literary traditions and is associated with ancient South India?",
+    "answer": "Tamil"
+  },
+  {
+    "id": "IND016",
+    "category": "India & Culture",
+    "difficulty": "medium",
+    "question": "Which festival celebrates the birth of Lord Krishna?",
+    "answer": "Janmashtami"
+  },
+  {
+    "id": "IND017",
+    "category": "India & Culture",
+    "difficulty": "easy",
+    "question": "What is the Indian national currency?",
+    "answer": "Indian rupee"
+  },
+  {
+    "id": "IND018",
+    "category": "India & Culture",
+    "difficulty": "medium",
+    "question": "Which monument was built by Emperor Shah Jahan in memory of Mumtaz Mahal?",
+    "answer": "Taj Mahal"
+  },
+  {
+    "id": "IND019",
+    "category": "India & Culture",
+    "difficulty": "easy",
+    "question": "Which state is famous for tea plantations around Darjeeling?",
+    "answer": "West Bengal"
+  },
+  {
+    "id": "IND020",
+    "category": "India & Culture",
+    "difficulty": "hard",
+    "question": "Which ancient treatise is associated with statecraft and attributed to Kautilya?",
+    "answer": "Arthashastra"
+  },
+  {
+    "id": "IND021",
+    "category": "India & Culture",
+    "difficulty": "medium",
+    "question": "Which Indian city is known for its film industry as Bollywood?",
+    "answer": "Mumbai"
+  },
+  {
+    "id": "IND022",
+    "category": "India & Culture",
+    "difficulty": "easy",
+    "question": "What is the harvest festival of Punjab commonly called?",
+    "answer": "Baisakhi"
+  },
+  {
+    "id": "IND023",
+    "category": "India & Culture",
+    "difficulty": "medium",
+    "question": "Which classical dance form originated in Tamil Nadu?",
+    "answer": "Bharatanatyam"
+  },
+  {
+    "id": "IND024",
+    "category": "India & Culture",
+    "difficulty": "easy",
+    "question": "Which Indian festival is celebrated with colored powders?",
+    "answer": "Holi"
+  },
+  {
+    "id": "IND025",
+    "category": "India & Culture",
+    "difficulty": "hard",
+    "question": "Which empire is associated with Emperor Ashoka and the spread of Buddhism across South Asia?",
+    "answer": "Maurya Empire"
+  },
+  {
+    "id": "IND026",
+    "category": "India & Culture",
+    "difficulty": "medium",
+    "question": "Which city is known as the City of Lakes in Rajasthan?",
+    "answer": "Udaipur"
+  },
+  {
+    "id": "IND027",
+    "category": "India & Culture",
+    "difficulty": "easy",
+    "question": "What is the national fruit of India?",
+    "answer": "Mango"
+  },
+  {
+    "id": "IND028",
+    "category": "India & Culture",
+    "difficulty": "medium",
+    "question": "Which Indian state is famous for its hornbill festival?",
+    "answer": "Nagaland"
+  },
+  {
+    "id": "IND029",
+    "category": "India & Culture",
+    "difficulty": "easy",
+    "question": "Which sea lies to the west of India?",
+    "answer": "Arabian Sea"
+  },
+  {
+    "id": "IND030",
+    "category": "India & Culture",
+    "difficulty": "hard",
+    "question": "Which ancient Sanskrit epic centers on the Kurukshetra war?",
+    "answer": "Mahabharata"
+  },
+  {
+    "id": "IND031",
+    "category": "India & Culture",
+    "difficulty": "medium",
+    "question": "Which state is home to the Konark Sun Temple?",
+    "answer": "Odisha"
+  },
+  {
+    "id": "IND032",
+    "category": "India & Culture",
+    "difficulty": "easy",
+    "question": "Which city is associated with the Charminar?",
+    "answer": "Hyderabad"
+  },
+  {
+    "id": "IND033",
+    "category": "India & Culture",
+    "difficulty": "medium",
+    "question": "Which Indian classical dance form originated in Odisha?",
+    "answer": "Odissi"
+  },
+  {
+    "id": "IND034",
+    "category": "India & Culture",
+    "difficulty": "easy",
+    "question": "Which mountain range forms India's northern boundary in much of the country?",
+    "answer": "Himalayas"
+  },
+  {
+    "id": "IND035",
+    "category": "India & Culture",
+    "difficulty": "hard",
+    "question": "Which ancient city in Bihar is associated with the Buddha's enlightenment?",
+    "answer": "Bodh Gaya"
+  }
+]

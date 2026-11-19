@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and runtime data
+*.log
+logs/
+server/end-user-locations.txt
+
+# Local databases and backups
+*.db
+*.sqlite
+*.sqlite3
+*.bak
+
+# Package manager logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Editor and OS files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Local files
+*.local
